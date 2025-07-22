@@ -1,5 +1,6 @@
 # PREDICTING BODY MASS INDEX (BMI) CATEGORY FROM HEIGHT & WEIGHT
-## A Comprehensive Machine Learning Approach for Automated Health Screening and Digital Healthcare Applications
+## A Comprehensive Machine Learning-Based Framework for Automated Health Risk Assessment, Disease Prediction, and Digital Healthcare Enablement.
+This project proposes an end-to-end intelligent system that leverages supervised learning algorithms to analyze biomedical data, predict potential health risks, and automate the early screening process. The framework is designed to improve accessibility to preventive healthcare, reduce manual diagnostic workloads, and enable integration with digital health platforms such as telemedicine and e-clinics. It emphasizes accuracy, scalability, and real-time processing to ensure reliable health evaluations in both rural and urban settings. The system serves as a foundation for future-ready, AI-powered digital health ecosystems.
 
 ---
 
