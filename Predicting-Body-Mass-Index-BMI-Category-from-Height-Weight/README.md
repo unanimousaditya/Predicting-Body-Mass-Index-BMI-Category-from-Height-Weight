@@ -30,11 +30,11 @@ Department of Information Technology
 - **Role:** Research, documentation, testing, validation
 
 **Submitted to:**
-Arya Vidyapeeth College (Autonomous)
-Department of Computer Science & Information Technology
+Dr. Utpal Barman , Assam Skill University
+Department of Information Technology
 
-**Academic Year:** 2024-25
-**Submission Date:** July 21, 2025
+**Academic Year:** 2025-26
+**Submission Date:** July , 2025
 
 ---
 
