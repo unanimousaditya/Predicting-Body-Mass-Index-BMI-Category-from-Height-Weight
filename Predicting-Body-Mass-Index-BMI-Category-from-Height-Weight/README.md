@@ -12,13 +12,18 @@ Predicting Body Mass Index (BMI) Category from Height & Weight
 Dr. Utpal Barman
 Assam Skill University
 Department of Information Technology
+- **Affiliation:** Assam Skill University
+- **Email:** utpal@asu.ac.in
+- **Phone:** +91 9085040861
+- **Role:** Dr. Utpal Barman, serving as the Project Supervisor, provided invaluable guidance and oversight throughout the development of this project. His role encompassed mentoring the team, offering technical and strategic advice, reviewing progress at key stages, and ensuring the project adhered to academic and institutional standards. His insights and feedback significantly contributed to enhancing the quality, clarity, and impact of our work.
+
 
 **👥 Team Members:**
 
 **Lead Developer:** Aditya Raj
 - **Affiliation:** Arya Vidyapeeth College (Autonomous)
 - **Email:** adityaxrajx21@gmail.com
-- **Phone:** 7896481245
+- **Phone:** +91 7896481245
 - **Role:** Project conception, ML model development, documentation, system architecture
 
 **Team Member:** Lokiseng Lojam
